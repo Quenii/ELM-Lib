@@ -1,0 +1,17 @@
+R0.03,   June 10, 2014
+  Separated out configuration options to pffconf.h.
+  Added _USE_LCC option.
+  Added _FS_FAT16 option.
+
+R0.02a,  December 07, 2010
+  Added some configuration options.
+  Fixed fails to open objects with DBCS character.
+
+R0.02,  December 14, 2009
+  Added multiple code page support.
+  Added write funciton.
+  Changed stream read mode interface.
+
+R0.01a,  June 15, 2009
+  Petit FatFs first release. (branched from FatFs R0.07b)
+
